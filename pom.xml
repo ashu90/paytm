@@ -2,7 +2,7 @@
 
   <modelVersion>4.0.0</modelVersion>
 
-<!--- 
+<!-- 
  <distributionManagement>
   	<repository>
         	<id>nexus</id>
@@ -15,7 +15,7 @@
                 <url>http://10.105.248.169:8081/repository/maven-snapshots/</url>
         </snapshotRepository>
   </distributionManagement>
---!>
+-->
 
   <groupId>com.paytm</groupId>
   <artifactId>paytm</artifactId>
